@@ -34,7 +34,8 @@ Change Security level to Low
 
 <img width="1062" alt="SQL Injection" src="https://github.com/user-attachments/assets/6f9abddc-48c5-4bc6-a5a7-5390f195607a" />
 
-Inject SQL
+Inject SQL 
+' OR '1'='1
 
 
 
