@@ -41,8 +41,9 @@ Once this is all done, start the apache server using the command:
 
 sudo systemctl start apache2
 Once done, access DVWA via your browser using the link: http://localhost/DVWA/setup.php
+Within the website, login using user: admin, password: password. Locate the ‘Security’ Tab, and change the security settings to low. 
 
-
+Go to SQL Injection and input the payload ‘ OR ‘1’=’1
 
 
 ![terminal commands](https://github.com/user-attachments/assets/d57823fe-f988-4a85-874a-cf1066057627)
