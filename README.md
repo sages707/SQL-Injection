@@ -71,6 +71,8 @@ Change Security level to Low
 Inject SQL 
 ' OR '1'='1
 
+Payload for extracting data
+<img width="1470" alt="data extraction" src="https://github.com/user-attachments/assets/9227ab86-e022-4b6a-b13c-15cbac6b6c87" />
 
 
 
