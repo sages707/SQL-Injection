@@ -16,7 +16,8 @@ Environment & Tools
 Through these various tools, we got to see how SQL injections vulnerabilities were exploited, along with the security level changes that can occur and the effects.
 
 
-![image](https://github.com/user-attachments/assets/7df190a0-f277-4d4d-8f2d-8babbbca4fbb)
+![terminal commands](https://github.com/user-attachments/assets/d57823fe-f988-4a85-874a-cf1066057627)
+
 
 Checking connection between DVWA and database.
 
