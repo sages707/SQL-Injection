@@ -18,14 +18,23 @@ Through these various tools, we got to see how SQL injections vulnerabilities we
 
 <img width="1470" alt="terminal commands" src="https://github.com/user-attachments/assets/2ebf9d8f-b1d6-4cb0-bc20-87bcb7458b60" />
 
+Checking connection between DVWA and database.
+
 <img width="1065" alt="DVWA Setup Page" src="https://github.com/user-attachments/assets/3ea7b0b5-7467-4fa0-b844-25acf63700a5" />
+
+Database setup page
 
 <img width="892" alt="Create" src="https://github.com/user-attachments/assets/1640fec9-4aaa-4473-99aa-20e9fb1446f7" />
 
+Create database
+
 <img width="776" alt="Security" src="https://github.com/user-attachments/assets/caae780b-1d6e-4a97-8b6d-92875d8c8bfc" />
+
+Change Security level to Low
 
 <img width="1062" alt="SQL Injection" src="https://github.com/user-attachments/assets/6f9abddc-48c5-4bc6-a5a7-5390f195607a" />
 
+Inject SQL
 
 
 
