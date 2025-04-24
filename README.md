@@ -16,9 +16,13 @@ Environment & Tools
 Through these various tools, we got to see how SQL injections vulnerabilities were exploited, along with the security level changes that can occur and the effects.
 
 
-<img width="1470" alt="terminal commands" src="https://github.com/user-attachments/assets/2ebf9d8f-b1d6-4cb0-bc20-87bcb7458b60" />
+![image](https://github.com/user-attachments/assets/7df190a0-f277-4d4d-8f2d-8babbbca4fbb)
 
 Checking connection between DVWA and database.
+
+![Editing Database Config in Terminal](https://github.com/user-attachments/assets/a5f2f6b2-a46e-428c-8e9f-6b07ce0cda7c)
+
+Edit Database Config in Terminal
 
 <img width="1065" alt="DVWA Setup Page" src="https://github.com/user-attachments/assets/3ea7b0b5-7467-4fa0-b844-25acf63700a5" />
 
