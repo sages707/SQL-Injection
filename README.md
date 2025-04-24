@@ -16,6 +16,35 @@ Environment & Tools
 Through these various tools, we got to see how SQL injections vulnerabilities were exploited, along with the security level changes that can occur and the effects.
 
 
+Installation:
+
+Within Kali Linux:
+
+Go into terminal:
+sudo apt install apache2 mariadb-server php php-mysqli git
+
+Once installed, do the following command:
+
+sudo git clone https://github.com/digininja/DVWA.git
+cd DVWA
+
+This will Clone the DVWA git, and then enter the DVWA directory when installed
+
+Within the DVWA directory:
+There will be a sample config file under the name of ‘config.inc.php.dist’, using this file we copy and rename into ‘config.inc.php’ and then edit the contents of the file
+sudo nano config/config.inc.php
+When within the config file, edit the ‘db_user’ and ‘db_password’ inside of the file.
+Start the SQL Server and connect it to DVWA:
+
+sudo service mysql start sudo mysql -u root -p CREATE DATABASE dvwa; exit;
+Once this is all done, start the apache server using the command:
+
+sudo systemctl start apache2
+Once done, access DVWA via your browser using the link: http://localhost/DVWA/setup.php
+
+
+
+
 ![terminal commands](https://github.com/user-attachments/assets/d57823fe-f988-4a85-874a-cf1066057627)
 
 
